@@ -1,9 +1,9 @@
-
+import { Heading } from "../../components/Heading";
 
 function Home() {
   return (
     <div className="App">
-      <h1>Hi</h1>
+      <Heading>O texto que eu quero</Heading>
     </div>
   );
 }
